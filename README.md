@@ -13,12 +13,11 @@ Tools
      - [Machine Learning Regression - Financial Market](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb): Importing from quandl (financial and economical data) to create a simple regression.
     
 - ## Data Analysis and Visualization (Python Programming)
-    - [Cryptocurrency Market Analysis](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Based off my stock market analysis of tech stocks. Change in price over time, daily returns, and behaviour prediction.
+    - [Cryptocurrency Market Analysis](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Based off my stock market analysis of tech stocks. Change in price over time, daily returns, and behaviour prediction.
     - [Stock Market Analysis of Tech Stocks](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
     - [Exploratory Data Analysis - Titanic Passenger Information](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/kaggle_titanic.ipynb): Simple analysis of passengers on board the Titanic answering common questions with visualizations. 
     - [Exploratory Data Analysis - House Prices](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Exploratory%20Data%20Analysis%20of%20House%20Prices.ipynb): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
-     - [Simple Linear Regression]
-     (https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Simple%20Linear%20Regression.ipynb): Small playground to summarize and study relationships between two continuous variables from a randomized dataset.
+     - [Simple Linear Regression](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Simple%20Linear%20Regression.ipynb): Small playground to summarize and study relationships between two continuous variables from a randomized dataset.
  
 
      
