@@ -27,7 +27,7 @@ Tools
     - [Breast Cancer Analysis](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-    - [LinkedIn](https://www.linkedin.com/in/Tanmay/)
+    - [LinkedIn](https://www.linkedin.com/in//)
     
   
 
