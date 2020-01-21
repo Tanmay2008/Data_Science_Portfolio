@@ -37,8 +37,8 @@ Tools
      
 - ## Minor Projects
     - [Personal Notes on Natural Language Processing Toolkit](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
-    - [Intro to BigQuery](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Intro%20to%20BigQuery%20.ipynb)
-    - [Breast Cancer Analysis](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
+    - [Practice_iloc](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Practice_iloc.ipynb)
+    - [Regression - Machine Learning](https://github.com/Tanmay2008/Data_Science_Portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb)
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn]
